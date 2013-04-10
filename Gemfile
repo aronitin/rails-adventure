@@ -27,7 +27,8 @@ group :test, :development do
  	gem 'guard-rspec'
  	# gem 'libnotify'
  	gem 'rb-inotify'
- 	# gem 'growl_notify'	
+ 	# gem 'growl_notify'
+ 	gem 'launchy'	
 end
 
 gem 'jquery-rails'
